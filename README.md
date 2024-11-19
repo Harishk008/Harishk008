@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harishk008
+- 👋 Hi, I’m Harish Kannan
 - I’m interested in VR/AI and ML
   
 
