@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harishk008
-- 👀 I’m interested in android devlopment/AR and VR/AI and ML
-- 🌱 I’m currently learning python/HTML and CSS
+- I’m interested in VR/AI and ML
+  
 
 
 <!---
