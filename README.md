@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Harish Kannan
 - I’m interested in VR/AI and ML
+- Currently learning about GenAI
   
 
 
